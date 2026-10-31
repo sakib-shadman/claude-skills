@@ -1,0 +1,27 @@
+{
+  "name": "galacticos-labs",
+  "description": "Claude Code plugins by Shadman Sakib. Each plugin lives in its own repository.",
+  "owner": {
+    "name": "Shadman Sakib",
+    "url": "https://github.com/sakib-shadman"
+  },
+  "plugins": [
+    {
+      "name": "bug-workflow",
+      "source": {
+        "source": "github",
+        "repo": "sakib-shadman/bug-workflow"
+      },
+      "description": "Investigate bugs read-only into an evidence-based report, then implement the approved fix behind explicit approval gates. Skills: investigate-bug, fix-bug.",
+      "author": {
+        "name": "Shadman Sakib",
+        "url": "https://github.com/sakib-shadman"
+      },
+      "homepage": "https://github.com/sakib-shadman/bug-workflow#readme",
+      "repository": "https://github.com/sakib-shadman/bug-workflow",
+      "license": "MIT",
+      "category": "development",
+      "tags": ["debugging", "bug-fix", "investigation", "code-review", "workflow"]
+    }
+  ]
+}
